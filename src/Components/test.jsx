@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import "../Components/test.css"
+import "../Components/test.css";
+import marked from "marked";
 
-import marked from "marked"
 export default class markdown extends Component {
 state ={
 markdown: ""
