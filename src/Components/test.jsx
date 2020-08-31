@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import "../Components/test.css";
+import "./test.css";
 import marked from "marked";
 
 export default class markdown extends Component {
