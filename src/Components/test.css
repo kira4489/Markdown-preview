@@ -3,12 +3,12 @@ h1{
 }
 
 .col-12 h5 {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 
 .form-control {
   width: 50%;
-  height: 300px;
+  height: 200px;
   display: block;
   margin: auto;
   margin-top: 80px;
@@ -20,4 +20,8 @@ h1{
 
 body{
   background-color: #109Dfa;
+}
+
+textarea.form-control {
+  /* height: auto; */
 }
